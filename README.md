@@ -1,2 +1,2 @@
 # beeb
-A smal cli command to generate a notification
+A smal cli command to generate a desktop notification
